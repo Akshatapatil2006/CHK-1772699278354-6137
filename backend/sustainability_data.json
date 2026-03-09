@@ -1,0 +1,250 @@
+{
+  "sustainability": {
+    "definition": "Meeting present needs without harming future generations.",
+    "importance": [
+      "Protects the environment",
+      "Saves natural resources",
+      "Reduces pollution",
+      "Supports social and economic development",
+      "Promotes responsible consumption and production"
+    ],
+    "objectives": ["Environmental", "Economic", "Social"],
+    "examples": [
+      "Using solar and wind energy instead of fossil fuels",
+      "Water harvesting and drip irrigation",
+      "Afforestation and green belts"
+    ],
+    "facts": [
+      "UN has 17 Sustainable Development Goals (SDGs) for 2030",
+      "Sustainable cities reduce carbon footprint and energy consumption"
+    ],
+    "sdgs": [
+      "1. No Poverty",
+      "2. Zero Hunger",
+      "3. Good Health and Well-being",
+      "4. Quality Education",
+      "5. Gender Equality",
+      "6. Clean Water and Sanitation",
+      "7. Affordable and Clean Energy",
+      "8. Decent Work and Economic Growth",
+      "9. Industry, Innovation and Infrastructure",
+      "10. Reduced Inequalities",
+      "11. Sustainable Cities and Communities",
+      "12. Responsible Consumption and Production",
+      "13. Climate Action",
+      "14. Life Below Water",
+      "15. Life on Land",
+      "16. Peace, Justice and Strong Institutions",
+      "17. Partnerships for the Goals"
+    ]
+  },
+  "3r": {
+    "definition": "Reduce, Reuse, Recycle",
+    "reduce": "Minimize consumption and waste; buy products with less packaging",
+    "reuse": "Use items again instead of throwing them away; example: cloth bags, jars, old notebooks",
+    "recycle": "Convert waste into raw material for new products like paper, plastic, metal",
+    "facts": [
+      "Recycling 1 ton of paper saves 17 trees and 7000 gallons of water",
+      "Recycling 1 ton of aluminum saves 10 tons of bauxite ore",
+      "Recycling 1 ton of plastic saves 7.4 cubic meters of landfill space",
+      "Recycling reduces greenhouse gas emissions and energy consumption"
+    ],
+    "tips": [
+      "Prefer products with recyclable packaging",
+      "Donate old items instead of throwing them away",
+      "Use cloth bags and reusable containers"
+    ],
+    "activities": [
+      "Organize a neighborhood recycling day",
+      "Sort plastic and paper at home before disposal",
+      "Create DIY projects from reused items"
+    ]
+  },
+  "waste_management": {
+    "wet_waste": "Food scraps, fruits, vegetables. Can be composted into fertilizer or biogas.",
+    "dry_waste": "Plastic, paper, metal, glass. Can be recycled into new products.",
+    "hazardous_waste": "Chemicals, batteries, medical waste. Needs special disposal.",
+    "tips": [
+      "Segregate wet and dry waste at home",
+      "Avoid single-use plastics",
+      "Dispose e-waste at authorized centers",
+      "Start composting organic kitchen waste"
+    ],
+    "facts": [
+      "Plastic takes 500+ years to decompose",
+      "Segregation of waste reduces landfill load by 30–40%",
+      "India produces 150,000 tons of plastic waste per year",
+      "Composting wet waste reduces methane emissions",
+      "Improper disposal of hazardous waste harms soil and water"
+    ],
+    "activities": [
+      "Organize a neighborhood plastic collection day",
+      "Start a compost pit at home",
+      "Sort plastic waste and reuse containers for storage",
+      "Create DIY crafts from old bottles and jars"
+    ]
+  },
+  "plastic_reuse": {
+    "definition": "Ways to reuse plastic bottles and containers instead of throwing them away.",
+    "tips": [
+      "Use bottles as plant containers or mini gardens",
+      "Create storage boxes for small items",
+      "Make bird feeders from bottles",
+      "Use bottles to water plants gradually"
+    ],
+    "activities": [
+      "DIY crafts from old bottles",
+      "Sort and clean plastic waste at home for reuse",
+      "Organize a local reuse workshop in your neighborhood"
+    ],
+    "facts": [
+      "Recycling 1 ton of plastic saves 7.4 cubic meters of landfill space",
+      "Properly reused plastic reduces greenhouse gas emissions",
+      "Plastic waste is a major contributor to ocean pollution"
+    ]
+  },
+  "climate_change": {
+    "definition": "Long-term changes in temperature and weather due to greenhouse gases.",
+    "causes": [
+      "Deforestation",
+      "Fossil fuel burning",
+      "Industrial emissions",
+      "Excessive use of vehicles",
+      "Agricultural practices releasing methane"
+    ],
+    "effects": [
+      "Melting glaciers and polar ice caps",
+      "Rising sea levels",
+      "Extreme weather events like floods, droughts, cyclones",
+      "Loss of biodiversity",
+      "Decline in crop yields and water scarcity"
+    ],
+    "solutions": [
+      "Plant trees and maintain green cover",
+      "Switch to renewable energy sources",
+      "Reduce carbon footprint and use public transport",
+      "Adopt energy-efficient technologies",
+      "Practice sustainable agriculture"
+    ],
+    "facts": [
+      "Global temperature has risen by 1.2°C since pre-industrial era",
+      "CO₂ levels reached 419 ppm in 2023",
+      "Climate change affects agriculture, water resources, and human health",
+      "Renewable energy adoption can reduce global emissions by 70%"
+    ]
+  },
+  "global_warming": {
+    "definition": "Increase in Earth's average temperature caused by carbon emissions.",
+    "effects": [
+      "Rising sea levels and flooding of coastal areas",
+      "Melting polar ice and glaciers",
+      "Extreme heat waves and forest fires",
+      "Disruption of ecosystems and agriculture",
+      "Increased frequency of hurricanes and storms"
+    ],
+    "solutions": [
+      "Use renewable energy like solar, wind, hydro",
+      "Plant trees to absorb CO₂",
+      "Adopt energy-efficient appliances and transport",
+      "Reduce deforestation and promote reforestation",
+      "Support clean energy policies"
+    ],
+    "facts": [
+      "Earth's average temperature has increased by 1.2°C since 1850",
+      "Arctic ice is declining at a rate of 13% per decade",
+      "Global warming accelerates extreme weather events"
+    ]
+  },
+  "composting": {
+    "definition": "Turns organic waste like food scraps into natural fertilizer.",
+    "benefits": [
+      "Reduces landfill waste",
+      "Improves soil fertility and structure",
+      "Reduces greenhouse gases like methane",
+      "Encourages urban and household gardening",
+      "Supports sustainable agriculture"
+    ],
+    "examples": ["Kitchen waste, garden leaves, fruit peels"],
+    "activities": [
+      "Start a compost pit at home",
+      "Use kitchen scraps to fertilize plants",
+      "Educate neighbors on composting"
+    ]
+  },
+  "save_water": {
+    "tips": [
+      "Turn off taps when not in use",
+      "Fix leaks immediately",
+      "Use drip irrigation for plants",
+      "Collect and reuse rainwater",
+      "Avoid overwatering gardens",
+      "Use water-efficient appliances"
+    ],
+    "facts": [
+      "Drip irrigation saves up to 50% water",
+      "Fixing leaks can save 10–20 liters/day per tap",
+      "Using water-efficient appliances reduces consumption by 30%",
+      "Rainwater harvesting can supplement 50–60% household water needs"
+    ]
+  },
+  "save_electricity": {
+    "tips": [
+      "Switch off lights and appliances when not in use",
+      "Use LED bulbs instead of incandescent bulbs",
+      "Use energy-efficient appliances",
+      "Prefer natural light during the day",
+      "Unplug chargers and devices when not in use",
+      "Use solar panels for electricity generation"
+    ],
+    "facts": [
+      "LED bulbs save 80% electricity compared to incandescent bulbs",
+      "Energy-efficient appliances reduce household energy consumption by 20–30%",
+      "Turning off unused appliances reduces CO₂ emissions",
+      "Solar energy can meet 25–30% of household electricity needs in sunny regions"
+    ]
+  },
+  "plastic_facts": {
+    "definition": "Plastic is a synthetic material used in packaging, containers, and other products.",
+    "problems": [
+      "Takes more than 500 years to decompose",
+      "Causes microplastics in oceans",
+      "Harms wildlife and marine animals",
+      "Contributes to landfill overflow",
+      "Leaches chemicals into soil and water"
+    ],
+    "solutions": [
+      "Reduce single-use plastics",
+      "Recycle properly",
+      "Use cloth bags and reusable containers",
+      "Support bans on plastic bags and straws",
+      "Promote awareness campaigns"
+    ]
+  },
+  "awareness_videos": [
+  {
+    "id": 1,
+    "title": "Recycling Basics",
+    "filename": "video1.mp4",
+    "description": "Learn how to recycle plastics, paper, and metals effectively."
+  },
+  {
+    "id": 2,
+    "title": "Home Composting Tips",
+    "filename": "video2.mp4",
+    "description": "Step-by-step guide to compost kitchen and garden waste at home."
+  },
+  {
+    "id": 3,
+    "title": "How to Reduce Plastic Waste",
+    "filename": "video3.mp4",
+    "description": "Tips to minimize plastic use in daily life."
+  },
+  {
+    "id": 4,
+    "title": "How to Reduce Plastic Waste",
+    "filename": "video4.mp4",
+    "description": "Tips to minimize plastic use in daily life."
+  }
+  
+]
+}
